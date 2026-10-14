@@ -12,12 +12,14 @@ In this lab you've learned the basics of number theory as it relates to subtract
 | Question 3 | Your answers to the question | 25% |
 
 ## Names
-
+Hayden Nguyen, 
 ## Summary
 
 ## Lab Questions
 
 ### 1 - Explain the differences between our Half Adder from last lab and the Half Subtractor from this lab.
+
+The Half Adder adds two binary bits together, while the Half Subtractor subtracts one binary bit from another. The Half Adder outputs a sum and a carry, while the Half Subtractor outputs a difference and a borrow.
 
 ### 2 - What about the end around carry of One’s Complement makes it hard to use and implement?
 

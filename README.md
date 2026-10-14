@@ -22,6 +22,7 @@ Hayden Nguyen,
 The Half Adder adds two binary bits together, while the Half Subtractor subtracts one binary bit from another. The Half Adder outputs a sum and a carry, while the Half Subtractor outputs a difference and a borrow.
 
 ### 2 - What about the end around carry of One’s Complement makes it hard to use and implement?
+The end around carry causes timing/propagation error, since the program has to wait for the MSB's carry out, but the carry out relies on all the bit equations before it, so basically LSB and MSB rely on each other's result and it causes a error.
 
 ### 3 - What is the edge case and problem with Two’s Complement number representation?
-
+The edge case with two's complement is that you can represent one more negative number than positive number, since 0 is counted as a positive number. The problem with this is that you cannot change the most negative number to a positive number, since it cannot be represented in two's complement.

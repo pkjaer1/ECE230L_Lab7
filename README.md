@@ -12,8 +12,11 @@ In this lab you've learned the basics of number theory as it relates to subtract
 | Question 3 | Your answers to the question | 25% |
 
 ## Names
-Hayden Nguyen, 
+Hayden Nguyen, Tate Malloy, Peter Kjaer
+
 ## Summary
+
+Tate
 
 ## Lab Questions
 

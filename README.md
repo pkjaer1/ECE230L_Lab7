@@ -16,7 +16,7 @@ Hayden Nguyen, Tate Malloy, Peter Kjaer
 
 ## Summary
 
-Tate
+Tate WIP RN
 
 ## Lab Questions
 
